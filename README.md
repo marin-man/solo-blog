@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [慢慢说设计模式：桥接模式](https://api.dingdongtongxue.com/articles/2021/09/04/1630764238461.html)
+* [慢慢说设计模式：适配器模式](https://api.dingdongtongxue.com/articles/2021/09/04/1630758532580.html)
 * [慢慢说设计模式：原型模式](https://api.dingdongtongxue.com/articles/2021/09/03/1630673589880.html)
 * [慢慢说设计模式：建造者模式](https://api.dingdongtongxue.com/articles/2021/09/03/1630671917610.html)
 * [慢慢说设计模式：单例模式](https://api.dingdongtongxue.com/articles/2021/08/30/1630333602446.html)
