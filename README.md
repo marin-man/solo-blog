@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [慢慢说 IO 模型：改造型 BIO](https://api.dingdongtongxue.com/articles/2021/09/10/1631280170182.html)
+* [慢慢说设计模式：外观模式](https://api.dingdongtongxue.com/articles/2021/09/10/1631278434926.html)
+* [慢慢说设计模式：装饰器模式](https://api.dingdongtongxue.com/articles/2021/09/10/1631277040485.html)
 * [慢慢说 IO 模型：传统 BIO](https://api.dingdongtongxue.com/articles/2021/09/08/1631104875734.html)
 * [慢慢说设计模式：组合模式](https://api.dingdongtongxue.com/articles/2021/09/08/1631100352599.html)
 * [慢慢说设计模式：桥接模式](https://api.dingdongtongxue.com/articles/2021/09/04/1630764238461.html)
