@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [慢慢说设计模式：代理模式](https://api.dingdongtongxue.com/articles/2021/09/17/1631882228308.html)
+* [慢慢说设计模式：亨元模式](https://api.dingdongtongxue.com/articles/2021/09/17/1631880376819.html)
 * [慢慢说 IO 模型：改造型 BIO](https://api.dingdongtongxue.com/articles/2021/09/10/1631280170182.html)
 * [慢慢说设计模式：外观模式](https://api.dingdongtongxue.com/articles/2021/09/10/1631278434926.html)
 * [慢慢说设计模式：装饰器模式](https://api.dingdongtongxue.com/articles/2021/09/10/1631277040485.html)
@@ -28,7 +30,6 @@
 * [Happens-before](https://api.dingdongtongxue.com/articles/2021/08/25/1629889688165.html)
 * [Springboot 实现微信登录](https://api.dingdongtongxue.com/articles/2021/08/25/1629885069582.html)
 * [数据库的存储原理](https://api.dingdongtongxue.com/articles/2021/08/25/1629884488503.html)
-* [数据库的索引方式](https://api.dingdongtongxue.com/articles/2021/08/25/1629882626809.html)
 
 
 
