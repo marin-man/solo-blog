@@ -1,4 +1,4 @@
-<p align="center"><img alt="慢 慢 的 个 人 博 客" src="https://b3log.org/images/brand/solo-128.png"></p><h2 align="center">
+<p align="center"><img alt="慢 慢 的 个 人 博 客" src="https://b3logfile.com/avatar/1629828567035_1629883350632.jpeg?imageView2/1/w/128/h/128/interlace/0/q/100"></p><h2 align="center">
 慢 慢 的 个 人 博 客
 </h2>
 
@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [慢慢说设计模式：观察者模式](https://api.dingdongtongxue.com/articles/2021/09/18/1631969743339.html)
+* [慢慢说设计模式：迭代器模式](https://api.dingdongtongxue.com/articles/2021/09/18/1631969698765.html)
+* [慢慢说设计模式：责任链模式](https://api.dingdongtongxue.com/articles/2021/09/18/1631969649853.html)
 * [慢慢说设计模式：代理模式](https://api.dingdongtongxue.com/articles/2021/09/17/1631882228308.html)
 * [慢慢说设计模式：亨元模式](https://api.dingdongtongxue.com/articles/2021/09/17/1631880376819.html)
 * [慢慢说 IO 模型：改造型 BIO](https://api.dingdongtongxue.com/articles/2021/09/10/1631280170182.html)
@@ -27,9 +30,6 @@
 * [JUC 下的工具类](https://api.dingdongtongxue.com/articles/2021/08/25/1629890376377.html)
 * [师兄：说说你理解的 Token](https://api.dingdongtongxue.com/articles/2021/08/25/1629890159990.html)
 * [Java 锁](https://api.dingdongtongxue.com/articles/2021/08/25/1629889960310.html)
-* [Happens-before](https://api.dingdongtongxue.com/articles/2021/08/25/1629889688165.html)
-* [Springboot 实现微信登录](https://api.dingdongtongxue.com/articles/2021/08/25/1629885069582.html)
-* [数据库的存储原理](https://api.dingdongtongxue.com/articles/2021/08/25/1629884488503.html)
 
 
 
