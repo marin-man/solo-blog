@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [慢慢说 IO 模型：传统 NIO](https://api.dingdongtongxue.com/articles/2021/09/19/1632056048629.html)
 * [慢慢说设计模式：观察者模式](https://api.dingdongtongxue.com/articles/2021/09/18/1631969743339.html)
 * [慢慢说设计模式：迭代器模式](https://api.dingdongtongxue.com/articles/2021/09/18/1631969698765.html)
 * [慢慢说设计模式：责任链模式](https://api.dingdongtongxue.com/articles/2021/09/18/1631969649853.html)
@@ -29,7 +30,6 @@
 * [慢慢说设计模式：工厂模式](https://api.dingdongtongxue.com/articles/2021/08/29/1630241059709.html)
 * [JUC 下的工具类](https://api.dingdongtongxue.com/articles/2021/08/25/1629890376377.html)
 * [师兄：说说你理解的 Token](https://api.dingdongtongxue.com/articles/2021/08/25/1629890159990.html)
-* [Java 锁](https://api.dingdongtongxue.com/articles/2021/08/25/1629889960310.html)
 
 
 
