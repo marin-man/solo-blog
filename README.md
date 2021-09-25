@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [慢慢说 IO 模型：AIO](https://api.dingdongtongxue.com/articles/2021/09/25/1632576113247.html)
+* [慢慢说 IO 模型：Reactor 和 Proactor](https://api.dingdongtongxue.com/articles/2021/09/25/1632574146209.html)
 * [慢慢说 IO 模型：多路复用](https://api.dingdongtongxue.com/articles/2021/09/20/1632142580621.html)
 * [慢慢说 IO 模型：传统 NIO](https://api.dingdongtongxue.com/articles/2021/09/19/1632056048629.html)
 * [慢慢说设计模式：观察者模式](https://api.dingdongtongxue.com/articles/2021/09/18/1631969743339.html)
@@ -28,8 +30,6 @@
 * [慢慢说设计模式：建造者模式](https://api.dingdongtongxue.com/articles/2021/09/03/1630671917610.html)
 * [慢慢说设计模式：单例模式](https://api.dingdongtongxue.com/articles/2021/08/30/1630333602446.html)
 * [慢慢说设计模式：抽象工厂](https://api.dingdongtongxue.com/articles/2021/08/30/1630327986503.html)
-* [慢慢说设计模式：工厂模式](https://api.dingdongtongxue.com/articles/2021/08/29/1630241059709.html)
-* [JUC 下的工具类](https://api.dingdongtongxue.com/articles/2021/08/25/1629890376377.html)
 
 
 
