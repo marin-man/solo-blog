@@ -8,6 +8,8 @@
 <a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/manmandm/solo-blog.svg"></a></p>
 
+<p align="center"><image width="50%" src="https://github-readme-stats.vercel.app/api?username=marin-man&theme=tokyonight&show_icons=true"></image></p>
+
 ### 最新
 
 * [慢慢说计网：TCP 和 UDP](https://api.dingdongtongxue.com/articles/2021/10/03/1633267762213.html)
