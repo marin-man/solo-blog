@@ -10,7 +10,11 @@
 
 ### 最新
 
-* [慢慢说计网：DNS](https://localhost/articles/2021/10/04/1633359437065.html)
+* [慢慢说计网：HTTPS 协议](https://localhost/articles/2021/10/06/1633525035425.html)
+* [慢慢说计网：Cookie 和 Session](https://localhost/articles/2021/10/06/1633523741967.html)
+* [慢慢说计网：HTTP 长短连接](https://localhost/articles/2021/10/06/1633522685078.html)
+* [慢慢说计网：HTTP 协议](https://localhost/articles/2021/10/06/1633521156380.html)
+* [慢慢说计网：DNS 协议](https://localhost/articles/2021/10/04/1633359437065.html)
 * [慢慢说计网：TCP 粘包和拆包](https://localhost/articles/2021/10/04/1633346765576.html)
 * [慢慢说计网：TCP 可靠传输](https://localhost/articles/2021/10/04/1633345897916.html)
 * [慢慢说计网：TCP 和 UDP](https://localhost/articles/2021/10/03/1633267762213.html)
@@ -26,10 +30,6 @@
 * [慢慢说设计模式：迭代器模式](https://localhost/articles/2021/09/18/1631969698765.html)
 * [慢慢说设计模式：责任链模式](https://localhost/articles/2021/09/18/1631969649853.html)
 * [慢慢说设计模式：代理模式](https://localhost/articles/2021/09/17/1631882228308.html)
-* [慢慢说设计模式：亨元模式](https://localhost/articles/2021/09/17/1631880376819.html)
-* [慢慢说 IO 模型：改造型 BIO](https://localhost/articles/2021/09/10/1631280170182.html)
-* [慢慢说设计模式：外观模式](https://localhost/articles/2021/09/10/1631278434926.html)
-* [慢慢说设计模式：装饰器模式](https://localhost/articles/2021/09/10/1631277040485.html)
 
 
 
