@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [慢慢说 Redis：Redis 基础](https://localhost/articles/2021/10/07/1633598940828.html)
 * [慢慢说计网：HTTPS 协议](https://localhost/articles/2021/10/06/1633525035425.html)
 * [慢慢说计网：Cookie 和 Session](https://localhost/articles/2021/10/06/1633523741967.html)
 * [慢慢说计网：HTTP 长短连接](https://localhost/articles/2021/10/06/1633522685078.html)
@@ -29,7 +30,6 @@
 * [慢慢说设计模式：观察者模式](https://localhost/articles/2021/09/18/1631969743339.html)
 * [慢慢说设计模式：迭代器模式](https://localhost/articles/2021/09/18/1631969698765.html)
 * [慢慢说设计模式：责任链模式](https://localhost/articles/2021/09/18/1631969649853.html)
-* [慢慢说设计模式：代理模式](https://localhost/articles/2021/09/17/1631882228308.html)
 
 
 
