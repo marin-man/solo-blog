@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [慢慢说 Redis：键过期](https://localhost/articles/2021/10/09/1633783451338.html)
+* [慢慢说 Redis：主从集群](https://localhost/articles/2021/10/09/1633782775326.html)
 * [慢慢说 Redis：Redis 事务](https://localhost/articles/2021/10/08/1633699187436.html)
 * [慢慢说 Redis：Redis 存储](https://localhost/articles/2021/10/08/1633698474339.html)
 * [慢慢说 Redis：Redis 性能](https://localhost/articles/2021/10/08/1633698415748.html)
@@ -28,8 +30,6 @@
 * [慢慢说计网：数据链路层](https://localhost/articles/2021/09/27/1632745377480.html)
 * [慢慢说计网：网络架构](https://localhost/articles/2021/09/27/1632743919134.html)
 * [慢慢说 IO 模型：AIO](https://localhost/articles/2021/09/25/1632576113247.html)
-* [慢慢说 IO 模型：Reactor 和 Proactor](https://localhost/articles/2021/09/25/1632574146209.html)
-* [慢慢说 IO 模型：多路复用](https://localhost/articles/2021/09/20/1632142580621.html)
 
 
 
