@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [慢慢说 Redis：Cluster 集群](https://localhost/articles/2021/10/18/1634558820802.html)
+* [慢慢说 Redis：哨兵集群](https://localhost/articles/2021/10/18/1634557431047.html)
 * [慢慢说 Redis：键过期](https://localhost/articles/2021/10/09/1633783451338.html)
 * [慢慢说 Redis：主从集群](https://localhost/articles/2021/10/09/1633782775326.html)
 * [慢慢说 Redis：Redis 事务](https://localhost/articles/2021/10/08/1633699187436.html)
@@ -28,8 +30,6 @@
 * [慢慢说计网：三次握手和四次挥手](https://localhost/articles/2021/10/03/1633266929674.html)
 * [慢慢说计网：网络层](https://localhost/articles/2021/10/03/1633265132086.html)
 * [慢慢说计网：数据链路层](https://localhost/articles/2021/09/27/1632745377480.html)
-* [慢慢说计网：网络架构](https://localhost/articles/2021/09/27/1632743919134.html)
-* [慢慢说 IO 模型：AIO](https://localhost/articles/2021/09/25/1632576113247.html)
 
 
 
