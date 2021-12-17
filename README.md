@@ -10,6 +10,10 @@
 
 ### 最新
 
+* [慢慢说分布式：网关限流算法](https://localhost/articles/2021/12/17/1639745511968.html)
+* [慢慢说分布式：CAP 和 BASE](https://localhost/articles/2021/12/17/1639744460409.html)
+* [慢慢说 Redis：Redis 多线程](https://localhost/articles/2021/12/17/1639743554555.html)
+* [慢慢说 Redis：数据一致](https://localhost/articles/2021/12/17/1639743082941.html)
 * [慢慢说 Redis：Cluster 集群](https://localhost/articles/2021/10/18/1634558820802.html)
 * [慢慢说 Redis：哨兵集群](https://localhost/articles/2021/10/18/1634557431047.html)
 * [慢慢说 Redis：键过期](https://localhost/articles/2021/10/09/1633783451338.html)
@@ -26,10 +30,6 @@
 * [慢慢说计网：DNS 协议](https://localhost/articles/2021/10/04/1633359437065.html)
 * [慢慢说计网：TCP 粘包和拆包](https://localhost/articles/2021/10/04/1633346765576.html)
 * [慢慢说计网：TCP 可靠传输](https://localhost/articles/2021/10/04/1633345897916.html)
-* [慢慢说计网：TCP 和 UDP](https://localhost/articles/2021/10/03/1633267762213.html)
-* [慢慢说计网：三次握手和四次挥手](https://localhost/articles/2021/10/03/1633266929674.html)
-* [慢慢说计网：网络层](https://localhost/articles/2021/10/03/1633265132086.html)
-* [慢慢说计网：数据链路层](https://localhost/articles/2021/09/27/1632745377480.html)
 
 
 
